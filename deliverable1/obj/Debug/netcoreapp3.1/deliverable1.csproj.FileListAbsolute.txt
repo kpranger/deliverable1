@@ -1,0 +1,14 @@
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.exe
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.deps.json
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.runtimeconfig.json
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.runtimeconfig.dev.json
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.dll
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.pdb
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.csproj.AssemblyReference.cache
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.AssemblyInfoInputs.cache
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.AssemblyInfo.cs
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.dll
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.pdb
+C:\Users\prang\OneDrive\Documents\Grand Circus\Prework\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.genruntimeconfig.cache
